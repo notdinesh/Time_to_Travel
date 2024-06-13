@@ -1,0 +1,171 @@
+.happy{
+    text-align: center;
+    font-size: xx-large;
+}
+.happy span{
+    color: orange;
+}
+.slog{
+    position: absolute;
+    bottom: 270px;
+    left: 380px;
+    font-weight: bolder;
+    font-size: 45px;
+    color: white;
+}
+.galouter{
+    position: relative;
+    background-color: aqua;
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.galouter img{
+    height: 100%;
+    width: 100%;
+}
+.galinner1{
+    height:130px;
+    width:225px;
+    position: absolute;
+}
+.galinner2{
+    height:500px;
+    width:905px;
+    position: absolute;
+    top:0px;
+    left:235px;
+}
+.galinner3{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:140px;
+    left:0px;
+}
+.galinner4{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:270px;
+    left:0px;
+}
+.galinner5{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:400px;
+    left:0px;
+}
+.galinner6{
+    height:500px;
+    width:905px;
+    position: absolute;
+    top:510px;
+    left:235px;
+}
+.galinner7{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:530px;
+    left:0px;
+}
+.galinner8{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:660px;
+    left:0px;
+}
+.galinner9{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:790px;
+    left:0px;
+}
+.galinner10{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:920px;
+    left:0px;
+}
+.galinner11{
+    height:500px;
+    width:905px;
+    position: absolute;
+    top:1020px;
+    left:235px;
+}
+.galinner12{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:1050px;
+    left:0px;
+}
+.galinner13{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:1180px;
+    left:0px;
+}
+.galinner14{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:1310px;
+    left:0px;
+}
+.galinner15{
+    height:130px;
+    width:225px;
+    position: absolute;
+    top:1440px;
+    left:0px;
+}
+.galinner16{
+    height:130px;
+    width:225px;
+    position: absolute;
+    top:1530px;
+    left:235px;
+}
+.galinner17{
+    height:370px;
+    width:670px;
+    position: absolute;
+    top:1530px;
+    left:470px;
+}
+.galinner18{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:1580px;
+    left:0px;
+}
+.galinner19{
+    height:120px;
+    width:225px;
+    position: absolute;
+    top:1670px;
+    left:235px;
+}
+.galinner20{
+    height:140px;
+    width:225px;
+    position: absolute;
+    top:1710px;
+    left:0px;
+}
+.galinner21{
+    height:140px;
+    width:225px;
+    position: absolute;
+    top:1800px;
+    left:235px;
+}

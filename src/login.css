@@ -1,0 +1,98 @@
+.Out{
+    display: flex;
+    /* flex */
+}
+.in1{
+    height: 100vh;
+    width: 65%;
+    position: relative;
+}
+.title1, .title2{
+    position: absolute;
+    top: 0;
+    color: white;
+    font-weight: 500;
+    font-size: 40px;
+}
+.in1 .title3{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    right: 10px;
+    top: 0px;
+    
+}
+.lin{
+    text-decoration: none;
+    
+}
+.title1{
+    left: 100px;
+    top:370px;
+}
+.title2{
+    top:440px;
+    left:100px;
+}
+.head{
+    font-weight: 500;
+    font-size: 25px;
+}
+.in1 img{
+    height: 100%;
+    width: 100%;
+}
+.in2{
+    /* background-color: aqua; */
+    width:30%;
+    padding: 30px;
+     justify-content: space-around; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: blue; */
+}
+.in2 input{
+    height: 45px;
+    width: 340px;
+    border-radius: 15px;
+    border-style:solid;
+    border-width: 1px;
+    font-size: 16px;
+    padding-left: 20px;
+}
+.in2 button{
+    height: 50px;
+    width: 360px;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: orange;
+    color: white;
+}
+.inin{
+    /* background-color: blueviolet; */
+    display: flex;
+    flex-direction: column;
+    height: 70%;
+    justify-content: space-between;
+    text-align:center;
+}
+.forget{
+    
+    text-align:right;
+    color: orange;
+    font-weight: 600;
+    font-size: 17px;
+    /* position: absolute; */
+}
+.create{
+    color:darkgray;
+    font-weight:600;
+    font-size:17px;
+    
+}
+.create span{
+    color:orange;
+}
